@@ -1,5 +1,43 @@
-# 💫 About Me:
-- 💻 Web: React, Angular, TypeScript, JavaScript, HTML, CSS<br>- 📱 Mobile: Flutter, React Native<br>- 🛠️ Backend: Node.js, Python (Flask/Django), Java (Spring Boot)<br>- 🗄️ Database: PostgreSQL, MongoDB<br>- 🌐 Tools: Git, Docker, Firebase, AWS, Azure<br>
+# Hi there, I'm Apon Saha 👋
+
+## 👨‍💻 About Me
+I’m a **Web and Mobile App Developer** currently working at **Rakuten Mobile Inc.** in Japan. With expertise in **React**, **Angular**, **Flutter**, and **React Native**, I love building user-friendly and scalable applications.
+
+---
+
+## 🚀 Skills and Technologies
+- **Web Development**: React, Angular, TypeScript, JavaScript, HTML, CSS
+- **Mobile Development**: Flutter, React Native
+- **Backend**: Node.js, Python (Flask/Django), Spring Boot
+- **Database**: PostgreSQL, MongoDB
+- **Tools**: Docker, Firebase, AWS, Git
+
+---
+
+## 🌱 Currently Learning
+- Advanced animations with **Flutter**
+- **GraphQL** for API optimization
+
+---
+
+## 🤝 I’m Looking to Collaborate On
+- **Open-source web or mobile development projects**
+- Building cross-platform tools or reusable components
+
+---
+
+## ✨ Fun Fact
+- I'm a passionate **traveler** and **motorcycle enthusiast** who loves exploring new places.
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/apon-saha)
+- [Portfolio](https://apon-saha.dev)
+- [GitHub](https://github.com/apon-saha)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apon-saha&show_icons=true&theme=radical)
+
 
 
 ## 🌐 Socials:
