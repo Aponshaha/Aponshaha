@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web: React, Angular, TypeScript, JavaScript, HTML, CSS<br>- 📱 Mobile: Flutter, React Native<br>- 🛠️ Backend: Node.js, Python (Flask/Django), Java (Spring Boot)<br>- 🗄️ Database: PostgreSQL, MongoDB<br>- 🌐 Tools: Git, Docker, Firebase, AWS, Azure<br>
+- 💻 Web: React, Angular, TypeScript, JavaScript, HTML, CSS<br>- 📱 Mobile: Flutter, React Native<br>- 🛠️ Backend: Node.js, Python (Flask/Django), Java (Spring Boot)<br>- 🗄️ Database: PostgreSQL, MongoDB<br>- 🌐 Tools: Git, Docker, Firebase, AWS, Azure<br>
 
 
 ## 🌐 Socials:
