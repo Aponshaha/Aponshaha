@@ -30,13 +30,8 @@ I’m a **Web and Mobile App Developer** currently working at **Rakuten Mobile I
 - I'm a passionate **traveler** and **motorcycle enthusiast** who loves exploring new places.
 
 ---
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apon-saha&show_icons=true&theme=radical) -->
 
-## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/apon-saha)
-- [Portfolio](https://apon-saha.dev)
-- [GitHub](https://github.com/apon-saha)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apon-saha&show_icons=true&theme=radical)
 
 
 
